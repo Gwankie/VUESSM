@@ -1,0 +1,280 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/chat/chat",
+		"style": {
+			"navigationBarTitleText": "在线客服"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarTitleText": "用户信息"
+		}
+	}, {
+		"path": "pages/qrcode/qrcode",
+		"style": {
+			"navigationBarTitleText": "我的二维码"
+		}
+	}, {
+		"path": "pages/recharge/recharge",
+		"style": {
+			"navigationBarTitleText": "用户充值"
+		}
+	}, {
+		"path": "pages/shop-cart/shop-cart",
+		"style": {
+			"navigationBarTitleText": "购物车"
+		}
+	}, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "首页"
+		}
+	}, {
+		"path": "pages/shop-order-confirm/shop-order-confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}, {
+		"path": "pages/shop-address/shop-address",
+		"style": {
+			"navigationBarTitleText": "我的地址"
+		}
+	}, {
+		"path": "pages/shop-address-detail/shop-address-detail",
+		"style": {
+			"navigationBarTitleText": "地址详情"
+		}
+	}, {
+		"path": "pages/shop-order/shop-order",
+		"style": {
+			"navigationBarTitleText": "我的订单"
+		}
+	}, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarTitleText": "资讯详情"
+		}
+	}
+			,{
+		"path": "pages/yonghu/list"
+	},{
+		"path": "pages/yonghu/add-or-update"
+	},{
+		"path": "pages/yonghu/detail"
+	}
+				,{
+		"path": "pages/mingshituijian/list"
+	},{
+		"path": "pages/mingshituijian/add-or-update"
+	},{
+		"path": "pages/mingshituijian/detail"
+	}
+				,{
+		"path": "pages/shipinxuexi/list"
+	},{
+		"path": "pages/shipinxuexi/add-or-update"
+	},{
+		"path": "pages/shipinxuexi/detail"
+	}
+				,{
+		"path": "pages/zaixianxuexi/list"
+	},{
+		"path": "pages/zaixianxuexi/add-or-update"
+	},{
+		"path": "pages/zaixianxuexi/detail"
+	}
+				,{
+		"path": "pages/chat/list"
+	},{
+		"path": "pages/chat/add-or-update"
+	},{
+		"path": "pages/chat/detail"
+	}
+				,{
+		"path": "pages/forum/list"
+	},{
+		"path": "pages/forum/add-or-update"
+	},{
+		"path": "pages/forum/detail"
+	}
+				,{
+		"path": "pages/exampaper/list"
+	},{
+		"path": "pages/exampaper/add-or-update"
+	},{
+		"path": "pages/exampaper/detail"
+	}
+				,{
+		"path": "pages/examquestion/list"
+	},{
+		"path": "pages/examquestion/add-or-update"
+	},{
+		"path": "pages/examquestion/detail"
+	}
+				,{
+		"path": "pages/examrecord/list"
+	},{
+		"path": "pages/examrecord/add-or-update"
+	},{
+		"path": "pages/examrecord/detail"
+	}
+				,{
+		"path": "pages/storeup/list"
+	},{
+		"path": "pages/storeup/add-or-update"
+	},{
+		"path": "pages/storeup/detail"
+	}
+				,{
+		"path": "pages/discussmingshituijian/list"
+	},{
+		"path": "pages/discussmingshituijian/add-or-update"
+	},{
+		"path": "pages/discussmingshituijian/detail"
+	}
+				,{
+		"path": "pages/discussshipinxuexi/list"
+	},{
+		"path": "pages/discussshipinxuexi/add-or-update"
+	},{
+		"path": "pages/discussshipinxuexi/detail"
+	}
+				,{
+		"path": "pages/discusszaixianxuexi/list"
+	},{
+		"path": "pages/discusszaixianxuexi/add-or-update"
+	},{
+		"path": "pages/discusszaixianxuexi/detail"
+	}
+			    , {
+		"path": "pages/forum-index/forum-index",
+		"style": {
+			"navigationBarTitleText": "首页"
+		}
+	}, {
+		"path": "pages/forum-detail/forum-detail",
+		"style": {
+			"navigationBarTitleText": "论坛发帖详情"
+		}
+	}, {
+		"path": "pages/forum-reply/forum-reply",
+		"style": {
+			"navigationBarTitleText": "回复评论"
+		}
+	}, {
+		"path": "pages/luntanguanli/list",
+		"style": {
+			"navigationBarTitleText": "我的发布"
+		}
+	}, {
+		"path": "pages/forum-add-or-update/forum-add-or-update",
+		"style": {
+			"navigationBarTitleText": "我的发布"
+		}
+	}
+			, {
+		"path": "pages/shijuanliebiao/list",
+		"style": {
+			"navigationBarTitleText": "试卷列表"
+		}
+	}, {
+		"path": "pages/shijuanliebiao/exam",
+		"style": {
+			"navigationStyle": "custom"
+		}
+	}, {
+		"path": "pages/kaoshijilu/list",
+		"style": {
+			"navigationBarTitleText": "考试记录"
+		}
+	}, {
+		"path": "pages/kaoshijilu/detail",
+		"style": {
+			"navigationBarTitleText": "考试记录"
+		}
+	}, {
+		"path": "pages/cuotiben/list",
+		"style": {
+			"navigationBarTitleText": "错题本"
+		}
+	}
+		, {
+		"path": "pages/pay-confirm/pay-confirm",
+		"style": {
+			"navigationBarTitleText": "确认支付"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "在线学习平台小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#707070",
+		"selectedColor": "#d81e06",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+												,{
+				"pagePath": "pages/mingshituijian/list",
+				"iconPath": "/static/tabs/icon1.png",
+				"selectedIconPath": "/static/tabs/icon1_act.png",
+				"text": "名师推荐"
+			}
+												,{
+				"pagePath": "pages/shipinxuexi/list",
+				"iconPath": "/static/tabs/icon2.png",
+				"selectedIconPath": "/static/tabs/icon2_act.png",
+				"text": "视频学习"
+			}
+												,{
+				"pagePath": "pages/zaixianxuexi/list",
+				"iconPath": "/static/tabs/icon3.png",
+				"selectedIconPath": "/static/tabs/icon3_act.png",
+				"text": "在线学习"
+			}
+						
+						,{
+			 	"pagePath": "pages/forum-index/forum-index",
+				"iconPath": "static/tabs/type.png",
+			 	"selectedIconPath": "static/tabs/type1.png",
+				"text": "论坛中心"
+			}
+						
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}

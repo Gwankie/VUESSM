@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.dao.DiscussshipinxuexiDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.entity.DiscussshipinxuexiEntity" id="discussshipinxuexiMap">
+        <result property="refid" column="refid"/>
+        <result property="userid" column="userid"/>
+        <result property="content" column="content"/>
+        <result property="reply" column="reply"/>
+    </resultMap>
+
+	<select id="selectListVO"
+		resultType="com.entity.vo.DiscussshipinxuexiVO" >
+		SELECT * FROM discussshipinxuexi  discussshipinxuexi         
+        <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+	<select id="selectVO"
+		resultType="com.entity.vo.DiscussshipinxuexiVO" >
+		SELECT  discussshipinxuexi.* FROM discussshipinxuexi  discussshipinxuexi
+ 		<where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+
+    <select id="selectListView"
+		resultType="com.entity.view.DiscussshipinxuexiView" >
+
+		SELECT  discussshipinxuexi.* FROM discussshipinxuexi  discussshipinxuexi 	        
+        <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+	<select id="selectView"
+		resultType="com.entity.view.DiscussshipinxuexiView" >
+		SELECT * FROM discussshipinxuexi  discussshipinxuexi <where> 1=1 ${ew.sqlSegment}</where>
+	</select>
+	
+	
+</mapper>
