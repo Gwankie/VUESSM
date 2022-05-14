@@ -34,7 +34,7 @@ Java——后台涉及技术：
 [试卷列表](https://user-images.githubusercontent.com/68308548/168415539-6fbf42a2-bd04-46d6-b2a6-200a59611817.jpg)
 ![考试界面](https://user-images.githubusercontent.com/68308548/168415717-7f473b3a-808a-44b4-9ecf-bd1930267d13.jpg)
 
-管理员账号密码manager manager!
-用户账号密码user1 123456
+管理员账号manager密码manager
+用户账号user1密码123456
 有疑问 2014681804@qq.com
 
